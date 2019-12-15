@@ -1,6 +1,6 @@
-import numpy as np
-import matplotlib.pyplot as plt
+alphas = [10,20,30,40,50]
 
-np.random.seed(0)
-X = 2*np.random.rand(100,1)
+for i,alpha in enumerate(alphas):
+    print(i,alpha)
+
 
