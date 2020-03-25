@@ -1,4 +1,7 @@
 test/
 train/
+train_sub/
+
+
 labels.csv
 sample_submission.csv
